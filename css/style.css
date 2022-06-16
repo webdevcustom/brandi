@@ -1703,7 +1703,7 @@ slick-slide slick-current slick-active @media (max-width: 447px) {
 	transition: all 0.3s ease;
 }
 .footer-copyright {
-	margin-top: 62px;
+	margin: 72px 0 0 40px;
 }
 .footer-copyright__creator {
 	line-height: 1.7;
